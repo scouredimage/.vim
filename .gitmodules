@@ -16,18 +16,12 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = git://github.com/olivierverdier/python-syntax.vim.git
-[submodule "bundle/snipmate"]
-	path = bundle/snipmate
-	url = git://github.com/garbas/vim-snipmate.git
 [submodule "bundle/tlib_vim"]
 	path = bundle/tlib_vim
 	url = git://github.com/tomtom/tlib_vim.git
 [submodule "bundle/mw-utils"]
 	path = bundle/mw-utils
 	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
-[submodule "bundle/snippets"]
-	path = bundle/snippets
-	url = git://github.com/honza/snipmate-snippets.git
 [submodule "bundle/indent-object"]
 	path = bundle/indent-object
 	url = git://github.com/michaeljsmith/vim-indent-object.git
