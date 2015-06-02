@@ -25,3 +25,9 @@
 [submodule "bundle/indent-object"]
 	path = bundle/indent-object
 	url = git://github.com/michaeljsmith/vim-indent-object.git
+[submodule "bundle/vim-expand-region"]
+	path = bundle/vim-expand-region
+	url = git@github.com:terryma/vim-expand-region.git
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
